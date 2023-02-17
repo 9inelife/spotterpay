@@ -35,10 +35,10 @@ rgb(37, 37, 21);
 /*----------------------------------------------------*/
 /*----------------------------------------------------*/
 :root {
-  --theme-color: rgb(172, 166, 1);
+  --theme-color: rgb(203, 163, 18);
   --theme-title-color: #171d24;
   --theme-text-color: #7b7c6a;
-  --primary-color:rgb(227, 220, 25);
+  --primary-color: rgb(203, 163, 18);
   --theme-border-color: #dde1e5;
   --theme-dropshadow: 0 0.5px 1px 0 rgba(51, 77, 114, 0.1),
     0px 1.6px 3.6px 0 rgba(51, 77, 114, 0.15); }
